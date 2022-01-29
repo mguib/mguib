@@ -1,7 +1,7 @@
 ### Hii! Eu sou Marcos Guibson 👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Typescript e React-Native
+- 👾 Hoje trabalho com front-end
+- 🚀 Estudando Typescript e React-Native
 
 <div align="center">
   <a href="https://github.com/mguib">
