@@ -25,8 +25,7 @@
   #### Deploy Projects page
   <a href="https://vercel.com/dashboard">Projects page</a>
   
- <br />  
-  ### Contact
+ ## Contact
 <a href="https://www.linkedin.com/in/marcos-guibson-santos-da-silva-0b62321a3/" target="_blank" >
   <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
